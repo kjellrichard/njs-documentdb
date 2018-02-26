@@ -1,0 +1,32 @@
+{
+  "name": "njs-documentdb",
+  "version": "1.0.0",
+  "description": "tool for azure documentdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjellrichard/njs-documentdb.git"
+  },
+  "keywords": [
+    "azure",
+    "documentdb",
+    "cosmos",
+    "nodejs",
+    "node"
+  ],
+  "author": "Richard B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjellrichard/njs-documentdb/issues"
+  },
+  "homepage": "https://github.com/kjellrichard/njs-documentdb#readme",
+  "dependencies": {
+    "documentdb": "^1.14.2",
+    "documentdb-q-promises": "^1.6.0",
+    "dotenv": "^5.0.0",
+    "getenv": "^0.7.0"
+  }
+}
