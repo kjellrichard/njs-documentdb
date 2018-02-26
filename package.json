@@ -25,8 +25,11 @@
   "homepage": "https://github.com/kjellrichard/njs-documentdb#readme",
   "dependencies": {
     "documentdb": "^1.14.2",
-    "documentdb-q-promises": "^1.6.0",
+    "documentdb-q-promises": "^1.6.0"
+  },
+  "devDependencies": {
     "dotenv": "^5.0.0",
-    "getenv": "^0.7.0"
+    "getenv": "^0.7.0",
+    "promise-limit": "^2.5.0"
   }
 }
